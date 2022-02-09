@@ -12,6 +12,6 @@ Web analytics is the measurement, collection, analysis, and reporting of web dat
 
 The goal is to understand your website visitors without spying on them. To get all the data and knowledge you need to use your website to generate leads and revenue, without invading anyone's privacy or breaking any privacy laws doing it. 
 
-- Fathom: [usefathom.com](https://usefathom.com/)   
-- Plausible: [plausible.io](https://plausible.io/)  
-- Matomo: [matomo.org](https://matomo.org/)
+Fathom: [https://usefathom.com/](https://usefathom.com/)   
+Plausible: [https://plausible.io/](https://plausible.io/)  
+Matomo: [https://matomo.org/](https://matomo.org/)  

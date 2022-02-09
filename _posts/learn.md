@@ -6,6 +6,27 @@ ogImage:
   url: "/img/cover.jpg"
 ---
 
-## Links
+## Courses
 
-Practice and mentorship: [exercism.org](https://exercism.org/)
+### Courses
+freeCodeCamp: [https://www.freecodecamp.org/learn/](https://www.freecodecamp.org/learn/)  
+Code Academy: [https://www.codecademy.com/](https://www.codecademy.com/)  
+
+StackOverflow: [https://stackoverflow.com/](https://stackoverflow.com/)  
+Exercism: [https://exercism.org/](https://exercism.org/)  
+
+Tools
+
+React
+Next
+Vue
+Svelte
+
+Sanity: [https://www.sanity.io/](https://www.sanity.io/)  
+Supabase: [https://supabase.com/](https://supabase.com/)  
+Google Firebase: [firebase.google.com](https://firebase.google.com)  
+
+
+
+
+

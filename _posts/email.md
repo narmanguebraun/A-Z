@@ -6,5 +6,6 @@ ogImage:
   url: "/img/cover.jpg"
 ---
 
-supername@gmail.com  
-`supername&#xFF20;gmail&#x2024;com`
+Write email with code.
+
+supername@gmail.com = `supername&#xFF20;gmail&#x2024;com`

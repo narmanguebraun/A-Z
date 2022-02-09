@@ -6,4 +6,3 @@ ogImage:
   url: "/img/cover.jpg"
 ---
 
-Tool: NS Date Formatter [nsdateformatter.com](https://nsdateformatter.com/)

@@ -21,7 +21,7 @@ Create a new branch:
 
 ## Links
 
-- Document: [Git Cheat Sheet, GitHub Education](https://education.github.com/git-cheat-sheet-education.pdf)
-- Article: [Use Git to manage your GitHub repositories from your computer, GitHub Docs](https://docs.github.com/en/get-started/using-git/about-git)
-- Book: [Pro Git book, written by Scott Chacon and Ben Straub, published by Apress](http://git-scm.com/book/en/v2)
-- Video: [Git Branches Tutorial, freeCodeCamp on YouTube](https://www.youtube.com/watch?v=e2IbNHi4uCI)
+[GitHub Education: Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)  
+[GitHub Docs: Use Git to manage your GitHub repositories from your computer](https://docs.github.com/en/get-started  /using-git/about-git)
+[Pro Git book, by Scott Chacon and Ben Straub](http://git-scm.com/book/en/v2)  
+[Git Branches Tutorial, freeCodeCamp on YouTube](https://www.youtube.com/watch?v=e2IbNHi4uCI)  

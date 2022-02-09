@@ -8,11 +8,7 @@ ogImage:
 
 CSS = Cascading Style Sheets.
 
-The core technologies of the World Wide Web are: HTML, CSS and JavaScript.  
+The core technologies of the World Wide Web are HTML, CSS and JavaScript.
 HTML: the meaning and structure.  
 CSS: the appearance/presentation.  
-JavaScript: the functionality/behavior. 
-
-## Links
-
-Code Academy: [HTML-CSS](https://www.codecademy.com/catalog/language/html-css)  
+JavaScript: the functionality/behavior.  

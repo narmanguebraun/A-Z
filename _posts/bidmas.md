@@ -7,4 +7,6 @@ ogImage:
 ---
 
 BIDMAS = Brackets, Indices, Division, Multiplication, Addition, Subtraction.  
-An acronym to help children remember the order of operations in calculations.
+
+An acronym to remember the order of operations in calculations.
+Computers are programmed to use BIDMAS as an agreed order.

@@ -6,4 +6,4 @@ ogImage:
   url: "/img/cover.jpg"
 ---
 
-Tool: [realfavicongenerator.net](https://realfavicongenerator.net/)
+

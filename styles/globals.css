@@ -32,7 +32,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
 /* MODE */
 :root {
-  --fg: #4d4d4d;
+  --fg: #000;
   --bg: #fff;
   --fg-h: #000;
   --bg-alt: #f4f4f4;
@@ -41,7 +41,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 
 [data-theme='light'] {
-  --fg: #4d4d4d;
+  --fg: #000; /* #4d4d4d; */
   --bg: #fff;
   --fg-h: #000;
   --bg-alt: #f4f4f4;
@@ -50,8 +50,8 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 
 [data-theme='dark'] {
-  --fg: #cfcfcf;
-  --bg: #000;
+  --fg: #c3c3c3; /* #cfcfcf; */
+  --bg: #161318;
   --fg-h: #fff;
   --bg-alt: #010101;
   --link:#fff;
@@ -70,7 +70,7 @@ body {
   font-variant: common-ligatures contextual;
   letter-spacing: 0.0375em;
   font-size: 13px;
-  line-height: 2.0rem;
+  line-height: 2rem;
   background-color: var(--bg);
 /*  background: linear-gradient(to top, rgb(119, 121, 120), rgb(163, 163, 163));*/
   color: var(--fg);
@@ -79,20 +79,24 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-variation-settings: 'wght' 350;
   color: var(--fg-h);
-  line-height: 2.0rem;
+  line-height: 2rem;
 }
 h1, h2, h3 {
-  margin:0 0 2.0rem;
+  margin:0 0 2rem;
+}
+h1 {
+  font-size:1rem;
+}
+p {
+  line-height: 2rem;
 }
 
-p {
-  line-height: 2.0rem;
-}
 li {
-  line-height: 2.0rem;
+  line-height: 2rem;
+  list-style-type: disc;
 }
 ul {
-  margin:0 0 2.0rem;
+  margin:0 0 2rem;
   list-style-type: none;
 }
 a {
@@ -101,6 +105,11 @@ a {
 }
 a:hover {
   font-style:italic;
+}
+
+strong, b {
+  color: var(--fg-h);
+  font-variation-settings: 'wght' 400;
 }
 
 code {
@@ -124,7 +133,7 @@ input {
   font-family: 'Inter var';
   letter-spacing: 0.0375em;
   font-size: 13px;
-  line-height: 2.0rem;
+  line-height: 2rem;
   padding: 6px 12px;
   border-radius: 4px;
   color: var(--fg);

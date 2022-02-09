@@ -6,7 +6,7 @@ ogImage:
   url: "/img/cover.jpg"
 ---
 
-[graphql.org](https://graphql.org/)
+GraphQL: [https://graphql.org/](https://graphql.org/)
 
 GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need, makes it easier to evolve APIs over time, and enables powerful developer tools.
 It has gained popularity over REST APIs, due to its efficiency. However, GraphQL can be challenging to monitor.

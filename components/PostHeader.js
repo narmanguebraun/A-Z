@@ -7,7 +7,7 @@ export default function PostHeader({ title, date }) {
   return (
     <div className={styles.post_header}>
       <PostTitle>{title}</PostTitle>
-      Last edit &mdash; <DateFormatter dateString={date} />
+      Last Edit: <DateFormatter dateString={date} />
     </div>
   )
 }

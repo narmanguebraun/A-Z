@@ -6,4 +6,4 @@ ogImage:
   url: "/img/cover.jpg"
 ---
 
-Article: [Starting a project, the what and why of open source, Open Source Guide](https://opensource.guide/starting-a-project/#the-what-and-why-of-open-source)
+https://opensource.guide/

@@ -6,6 +6,4 @@ ogImage:
   url: "/img/cover.jpg"
 ---
 
-[github.com](https://github.com/)
-
-GitHub Community [https://github.community](https://github.community/)
+GitHub: [https://github.com/](https://github.com/)

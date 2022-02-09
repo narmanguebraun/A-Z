@@ -3,14 +3,14 @@
 
 /* HEADER */
 .header {width: 100%;display: flex;flex-direction: row;justify-content: space-between;}
-.header .nav{display: flex;flex-direction: row;justify-content: center;align-items: center;padding: 1rem;}
-.header .nav li {display: flex;padding:2rem 1rem;}
+.header .nav{display: flex;flex-direction: row;justify-content: center;align-items: center;padding:40px;}
+.header .nav li {display: flex;padding:0 40px 0 0;}
 .header a {border-bottom:none;}
 .header .header_div {display: flex;flex-direction: row;justify-content: center;align-items: center;}
-.header .header_div .mode {display: flex;padding:2rem;margin: -2rem 0 0 0;}
+.header .header_div .mode {display: flex;padding:40px;margin: -20px 0 0 0;}
 .header .header_div .mode .button_mode{
-  height: 1.2rem;
-  width: 1.2rem;
+  height: 15px;
+  width: 15px;
   border-radius: 50%;
   color: var(--fg);
   border: none;
@@ -25,26 +25,20 @@
 .main {padding: 4rem 0;}
 
 /* BIO */
-.section {padding:2rem;max-width: 600px;}
+.section {padding:40px;max-width: 600px;}
 .section p {margin: 0 0 1rem;}
 .section a {border-bottom: solid 1px var(--link);}
 .section h1{cursor: pointer;}
 .section h1 span {display: none;}
 .section h1:hover span {display: inline;}
 
-/* PORTFOLIO PAGES */
-
-.card {padding:2rem;max-width: 600px;}
-.left {float: left;}
-.right {float: right;}
-.ext_link {padding: 0 2rem 0 0;}
-
 /* BLOG */
-.blog {padding:2rem;}
+.blog {padding:40px;}
 .post {display:flex;flex-direction: row;max-width: 600px;}
 .post h3 {margin:0;}
-.post p {margin: 0 0 2rem;}
+.post p {margin: 0 0 2rem;line-height: 1.5rem;}
 .post p a {color: var(--link);}
+.post li {line-height: 1.5rem;list-style-type: disc;}
 .date {margin: 0 0 0 2rem;}
 .tags {margin: 0 0 0 2rem;}
 .post_cat {margin: 0 0 0 1rem;}
@@ -52,12 +46,14 @@
 .post_header {margin:0 0 2rem;}
 .post_title {margin: 0;}
 
+
+
 /* WORK */
 .connect {padding:2rem;}
 .connect a {margin: 0 2rem 0 0;}
 
 /* FOOTER */
-.footer {display:flex;padding:2rem;}
+.footer {display:flex;padding:40px;}
 
 @media (max-width: 600px) {
   .footer {position:relative;display:block;width:100%;}
