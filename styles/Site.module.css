@@ -36,9 +36,17 @@
 .blog {padding:40px;}
 .post {display:flex;flex-direction: row;max-width: 600px;}
 .post h3 {margin:0;}
-.post p {margin: 0 0 2rem;line-height: 1.5rem;}
-.post p a {color: var(--link);}
-.post li {line-height: 1.5rem;list-style-type: disc;}
+.post_body {max-width: 600px;}
+.post_body h1 {font-size:  1.75rem;}
+.post_body h2 {font-size:  1.5rem;}
+.post_body h3 {font-size:  1.375rem;}
+.post_body h4 {font-size:  1.25rem;}
+.post_body h5 {font-size:  1.125rem;}
+.post_body h6 {font-size:  1rem;}
+.post_body p {margin: 0 0 2rem;}
+.post_body p a {color: var(--link);}
+.post_body li {list-style-type: disc;}
+
 .date {margin: 0 0 0 2rem;}
 .tags {margin: 0 0 0 2rem;}
 .post_cat {margin: 0 0 0 1rem;}

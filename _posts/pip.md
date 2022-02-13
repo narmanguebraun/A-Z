@@ -12,4 +12,6 @@ Python 3.4 and later include pip (pip3 for Python 3) by default.
 
 ## Links
 
-Article: [Pip package manager, Wikipedia](https://en.wikipedia.org/wiki/Pip_(package_manager))
+#### Learn
+
+[RealPython: What Is Pip? ](https://realpython.com/what-is-pip/)

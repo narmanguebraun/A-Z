@@ -51,7 +51,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
 [data-theme='dark'] {
   --fg: #c3c3c3; /* #cfcfcf; */
-  --bg: #161318;
+  --bg: #000;
   --fg-h: #fff;
   --bg-alt: #010101;
   --link:#fff;

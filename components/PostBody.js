@@ -3,7 +3,7 @@ import styles from '../styles/Site.module.css'
 
 export default function PostBody({ content }) {
   return (
-    <div className={styles.post}>
+    <div className={styles.post_body}>
       <div
         className={markdownStyles['markdown']}
         dangerouslySetInnerHTML={{ __html: content }}

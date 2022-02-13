@@ -14,18 +14,18 @@ Python is a beginner-friendly language, you can write simple apps and even get i
 Its simple programming syntax, code readability and English-like commands, make coding in Python easy and efficient.
 Python is one of the easiest programming languages to learn because it's written and read a lot like everyday English. Python's simple syntax emphasizes natural language. Because of this, Python code is faster to write and execute. But it is also difficult to master. Anyone can learn Python if they work hard enough at it, but becoming a Python Developer will require a lot of practice and patience.
 
-## Fields using Python
+#### Fields using Python
 
-- AI and machine learning.  
-- Data analytics.  
-- Data visualisation.  
-- Programming applications.  
-- Web development.  
-- Game development.  
-- Language development.  
-- Finance.  
+AI and machine learning  
+Data analytics  
+Data visualisation  
+Programming applications  
+Web development  
+Game development  
+Language development  
+Finance  
 
-## Python vs. Java
+#### Python vs. Java
 
 Python and Java are two of the most popular and robust programming languages. Java is generally faster and more efficient than Python because it is a compiled language.  
 As an interpreted language, Python has simpler, more concise syntax than Java. It can perform the same function as Java in fewer lines of code.  
@@ -33,20 +33,30 @@ Java is a statically typed and compiled language, and Python is a dynamically ty
 
 ## Links  
 
-- Course: [Scientific computing with Python, freeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
-- Course: [Python, Codecademy](https://www.codecademy.com/catalog/language/python)
+#### Learn
 
-- Website: [Real Python](https://realpython.com/)
-- Tutorial: [Python, Edabit](https://edabit.com/tutorial/python)
+freeCodeCamp: Scientific computing with Python   
+[https://www.freecodecamp.org/learn/scientific-computing-with-python/](https://www.freecodecamp.org/learn/scientific-computing-with-python/)  
+Codecademy:  
+[https://www.codecademy.com/catalog/language/python](https://www.codecademy.com/catalog/language/python)  
+Real Python:  
+[https://realpython.com/](https://realpython.com/)  
+Edabit: Python Tutorial for Beginners  
+[https://edabit.com/tutorial/python](https://edabit.com/tutorial/python)    
 
-## Tools
+#### Tools
 
-- Terminal
-- Code Editor: Sublime Text, Visual Studio Code
-- IDE: PyCharm, Spyder
-- Notebook: Jupyter
+Terminal  
+Code Editor: Sublime Text, Visual Studio Code  
+IDE: PyCharm, Spyder  
+Notebook: Jupyter  
 
 
-Pillow PIL Python Imaging Library: [https://pillow.readthedocs.io/en/stable/](https://pillow.readthedocs.io/en/stable/)  
-PythonHosted PyPDF2: [https://pythonhosted.org/PyPDF2/](https://pythonhosted.org/PyPDF2/)  
-OpenCV: [https://opencv.org/](https://opencv.org/)  
+Pillow:  
+PIL Python Imaging Library    
+[https://pillow.readthedocs.io/en/stable/](https://pillow.readthedocs.io/en/stable/)  
+PythonHosted PyPDF2:  
+[https://pythonhosted.org/PyPDF2/](https://pythonhosted.org/PyPDF2/)  
+OpenCV:  
+Open source computer vision and machine learning software library  
+[https://opencv.org/](https://opencv.org/)  
