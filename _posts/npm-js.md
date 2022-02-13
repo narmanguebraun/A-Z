@@ -15,5 +15,4 @@ npm is the command line client that allows developers to install and publish tho
 ## Links
 
 - Documentation: [docs.npmjs.com](docs.npmjs.com)  
-- Article: [Resolving eacces permissions errors when installing packages globally](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
-)  
+- Article: [Resolving eacces permissions errors when installing packages globally](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally)  

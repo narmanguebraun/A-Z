@@ -7,3 +7,7 @@ ogImage:
 ---
 
 - Password Validation: [https://regexr.com/3bfsi](https://regexr.com/3bfsi)
+- Password generator: [https://passwordsgenerator.net/](https://passwordsgenerator.net/)
+
+Databases don't store the real passwords, but hashed passwords.
+A hash function is an algorithm, that converts your password into an hashed password.

@@ -6,7 +6,7 @@ ogImage:
   url: "/img/cover.jpg"
 ---
 
-[code.visualstudio.com](https://code.visualstudio.com/)
+[https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
 

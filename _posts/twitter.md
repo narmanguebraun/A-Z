@@ -11,8 +11,9 @@ Link for DM on Twitter:
 
 ## Links
 
-Documentation: [Twitter Developer Platform](https://developer.twitter.com/en/docs)  
-Article: [About Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)  
-Tool: [Cards Validator](https://cards-dev.twitter.com/validator)  
+Twitter Developer Platform: [https://developer.twitter.com/en/docs](https://developer.twitter.com/en/docs)  
+Twitter Cards Validator: [https://cards-dev.twitter.com/validator](https://cards-dev.twitter.com/validator)  
 
+Tweepy: [https://www.tweepy.org/](https://www.tweepy.org/)  
+Python library for accessing the Twitter API.
 

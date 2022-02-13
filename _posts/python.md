@@ -11,9 +11,7 @@ ogImage:
 Python is a programming language designed by Guido van Rossum, often used to build websites and software, automate tasks, and conduct data analysis.  
 Python is a general purpose language, it can be used to create a variety of different programs and isn't specialized for any specific problems.  
 Python is a beginner-friendly language, you can write simple apps and even get into the Internet of Things (IoT). 
-
 Its simple programming syntax, code readability and English-like commands, make coding in Python easy and efficient.
-
 Python is one of the easiest programming languages to learn because it's written and read a lot like everyday English. Python's simple syntax emphasizes natural language. Because of this, Python code is faster to write and execute. But it is also difficult to master. Anyone can learn Python if they work hard enough at it, but becoming a Python Developer will require a lot of practice and patience.
 
 ## Fields using Python
