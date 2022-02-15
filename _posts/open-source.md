@@ -6,4 +6,4 @@ ogImage:
   url: "/img/cover.jpg"
 ---
 
-https://opensource.guide/
+[https://opensource.guide/](https://opensource.guide/)
