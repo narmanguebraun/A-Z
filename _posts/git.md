@@ -25,3 +25,4 @@ Create a new branch:
 [GitHub Docs: Use Git to manage your GitHub repositories from your computer](https://docs.github.com/en/get-started  /using-git/about-git)
 [Pro Git book, by Scott Chacon and Ben Straub](http://git-scm.com/book/en/v2)  
 [Git Branches Tutorial, freeCodeCamp on YouTube](https://www.youtube.com/watch?v=e2IbNHi4uCI)  
+[Shell.How](https://www.shell.how/)
